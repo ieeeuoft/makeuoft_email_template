@@ -1,1 +1,1 @@
-# LEARNAI_design
+# MakeUofT Email template
